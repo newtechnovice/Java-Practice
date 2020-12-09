@@ -1,2 +1,3 @@
 # Java-Practice
-Java program practices/exercises 
+
+This is a bunch of basic java program exercises. Nothing serious. 
