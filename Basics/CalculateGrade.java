@@ -24,7 +24,7 @@ public class CalculateGrade {
         System.out.println("End of Program!");
     }
 
-    public static Double computeGrade(double prelimGrade, double midtermGrade, double finalsGrade){
+    public static double computeGrade(double prelimGrade, double midtermGrade, double finalsGrade){
 
         double result = (prelimGrade + midtermGrade + finalsGrade)/3;
         return result;
