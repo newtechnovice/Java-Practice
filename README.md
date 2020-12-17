@@ -11,7 +11,7 @@ This is a bunch of basic java program exercises.
 - [x] Making Choices
 - [x] Going Around in Circles (Or, Using Loops)
 - [x] Pulling a Switcheroo
-- [ ] Adding Some Methods to Your Madness
+- [x] Adding Some Methods to Your Madness
 - [ ] Handling Exceptions 
 
 ### Book 3: Object-Oriented Programming
