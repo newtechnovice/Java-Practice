@@ -12,7 +12,7 @@ This is a bunch of basic java program exercises.
 - [x] Going Around in Circles (Or, Using Loops)
 - [x] Pulling a Switcheroo
 - [x] Adding Some Methods to Your Madness
-- [ ] Handling Exceptions 
+- [x] Handling Exceptions 
 
 ### Book 3: Object-Oriented Programming
 
@@ -24,3 +24,12 @@ This is a bunch of basic java program exercises.
 - [ ] Using the Object and Class Classes
 - [ ] Using Inner Classes, Anonymous Classes, and Lambda Expressions
 - [ ] Working with Packages
+
+### Book 4: Strings, Arrays, and Collections 
+
+- [ ] Working with Strings
+- [ ] Using Arrays
+- [ ] Using the ArrayList Class
+- [ ] Using the LinkedList Class
+- [ ] Creating Generic Collection Classes 
+- [ ] Using Bulk Data Operations with Collections 
