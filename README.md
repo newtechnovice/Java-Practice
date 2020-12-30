@@ -16,7 +16,7 @@ This is a bunch of basic java program exercises.
 
 ### Book 3: Object-Oriented Programming
 
-- [ ] Understanding Object-Oriented Programming 
+- [x] Understanding Object-Oriented Programming 
 - [ ] Making Your Own Classes
 - [ ] Working with Statics
 - [ ] Using Subclasses and Inheritance 
