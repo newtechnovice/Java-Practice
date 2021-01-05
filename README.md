@@ -18,7 +18,7 @@ This is a bunch of basic java program exercises.
 
 - [x] Understanding Object-Oriented Programming 
 - [x] Making Your Own Classes
-- [ ] Working with Statics
+- [x] Working with Statics
 - [ ] Using Subclasses and Inheritance 
 - [ ] Using Abstract Classes and Interfaces 
 - [ ] Using the Object and Class Classes
