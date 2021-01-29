@@ -16,6 +16,8 @@ This is a bunch of basic java program exercises.
 
 ### Book 3: Object-Oriented Programming
 
+Exercises on Classes: [OOP Exercises - Java Programming Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html)
+
 - [x] Understanding Object-Oriented Programming 
 - [x] Making Your Own Classes
 - [x] Working with Statics
