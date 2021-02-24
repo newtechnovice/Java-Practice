@@ -22,7 +22,7 @@ Exercises on Classes: [OOP Exercises - Java Programming Tutorial](https://www3.n
 - [x] Making Your Own Classes
 - [x] Working with Statics
 - [x] Using Subclasses and Inheritance 
-- [ ] Using Abstract Classes and Interfaces 
+- [X] Using Abstract Classes and Interfaces 
 - [ ] Using the Object and Class Classes
 - [ ] Using Inner Classes, Anonymous Classes, and Lambda Expressions
 - [ ] Working with Packages
